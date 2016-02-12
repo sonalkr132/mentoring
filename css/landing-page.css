@@ -37,7 +37,7 @@ h6 {
 
 .intro-header-gsoc {
   background: url(../img/gsoc/intro-bg.jpg) no-repeat center center;
-  background-size: cover;
+  background-size: contain;
   color: #73ba25;
 }
 
@@ -98,6 +98,10 @@ h6 {
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 2px;
+}
+
+#about, #mentor {
+    padding: 40px 0 20px;
 }
 
 section {
