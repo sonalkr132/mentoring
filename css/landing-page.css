@@ -101,7 +101,7 @@ h6 {
 }
 
 section {
-  padding: 20px 0 20px;
+  padding: 40px 0 20px;
 }
 section:nth-of-type(odd) {
   background: #f8f8f8;
